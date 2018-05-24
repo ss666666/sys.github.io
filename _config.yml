@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://zxallen.github.io
+url: https://sys.github.io
 date_format: "ordinal"
 title: zxallen's-blog
 subtitle: "会敲代码的令狐葱"
@@ -15,12 +15,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zxallen
+author: ss
 # organization: www.jianshu.com/u/bf4c0b4a8c83
 # organization_url: https://www.jianshu.com/u/bf4c0b4a8c83
-github_username: zxallen
+github_username: ss
 location: BeiJing, China
-email: hellojiazhixiang@gmail.com
+email: 549784289@qq.com
 
 # ---------------- #
 #    Navigation    #
@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: zxallen/zxallen.github.io
+repository: ss666666/sys.github.io
 
 # ---------------- #
 #      Comments    #
